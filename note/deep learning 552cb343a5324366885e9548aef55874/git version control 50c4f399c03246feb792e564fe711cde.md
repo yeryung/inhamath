@@ -218,6 +218,6 @@ reference
 - reset   vs   checkout
 [https://www.youtube.com/watch?v=4tJjPWnNZNw&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=3](https://www.youtube.com/watch?v=4tJjPWnNZNw&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=3)
 
-요기서부터 들으면 됨
+![Untitled](git%20version%20control%2050c4f399c03246feb792e564fe711cde/Untitled%202.png)
 
-[https://www.youtube.com/watch?v=NBb-FFB2mJk&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=7](https://www.youtube.com/watch?v=NBb-FFB2mJk&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=7)
+[https://www.youtube.com/watch?v=NBb-FFB2mJk&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=8](https://www.youtube.com/watch?v=NBb-FFB2mJk&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=8)
